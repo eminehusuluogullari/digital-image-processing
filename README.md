@@ -1,0 +1,15 @@
+"# Digital Image Processing Projects" 
+"Bu depo, dijital g”rnt iŸleme tekniklerini ”§renirken geliŸtirdi§im uygulamalar ve temel algoritmalar i‡ermektedir. OpenCV ve Python kullanlarak uygulanmŸ ‡eŸitli g”rnt iŸleme metotlar bulunmaktadr." 
+ 
+"## ˜‡erik" 
+"- Thresholding teknikleri" 
+"- Histogram iŸlemleri" 
+"- Morfolojik iŸlemler" 
+"- Filtreleme (blur, gaussian, median)" 
+"- G”rnt d”nŸmleri" 
+"- Renk uzaylar (RGB, HSV, LAB)" 
+ 
+"## Kullanlan Teknolojiler" 
+"- Python" 
+"- OpenCV" 
+"- Numpy" 
